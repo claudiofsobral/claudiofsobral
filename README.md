@@ -1,4 +1,4 @@
-# Hello, I'm Claudio Francisco Sobral 👋 🇺🇸
+# Hello, I'm Claudio Sobral 👋 🇺🇸
 
 ## About Me
 
@@ -54,7 +54,7 @@ Complete appointment scheduling system for a facial and body aesthetics clinic.
 ---
 ---
 
-# Olá, eu sou Claudio Francisco Sobral 👋 
+# Olá, eu sou Claudio Sobral 👋 
 
 ## Sobre mim
 
